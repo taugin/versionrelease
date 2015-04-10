@@ -2,8 +2,8 @@
 "app_url" : "https://raw.githubusercontent.com/taugin/versionrelease/master/phoneassistant/PhoneAssistant_1.2.4.apk",
 "app_name" : "PhoneAssistant_1.2.4.apk",
 "version_code" : 124,
-"version_name" : "1.2.4"
-"release_time" : "2015-04-10 22-02-03"
+"version_name" : "1.2.4,"
+"release_time" : "2015-04-10 22-04-53,"
 "instructions" : "1.更改发布地址
 2.修改下载界面
 3.修改下载信息"
