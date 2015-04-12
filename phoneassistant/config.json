@@ -1,8 +1,8 @@
 {
-"app_url" : "https://raw.githubusercontent.com/taugin/versionrelease/master/phoneassistant/PhoneAssistant_1.2.7.apk",
-"app_name" : "PhoneAssistant_1.2.7.apk",
-"version_code" : 127,
-"version_name" : "1.2.7",
-"release_time" : "2015-04-11 17-27-04",
-"instructions" : "1.黑名单界面修改。\n2.自定义Checkbox。\n3.短信拦截界面完成。\n4.优化翻转静音。"
+"app_url" : "https://raw.githubusercontent.com/taugin/versionrelease/master/phoneassistant/PhoneAssistant_1.2.8.apk",
+"app_name" : "PhoneAssistant_1.2.8.apk",
+"version_code" : 128,
+"version_name" : "1.2.8",
+"release_time" : "2015-04-13 00-04-29",
+"instructions" : "1. 添加短信拦截功能\n2.修改拦截图标显示\n3.优化导入导出内容"
 }
